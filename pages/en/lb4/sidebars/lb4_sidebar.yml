@@ -23,7 +23,7 @@ children:
   url: Inside-LoopBack-Application.html
   output: 'web, pdf'
 
-- title: 'Concepts'
+- title: 'Concepts Explanation'
   url: Concepts.html
   output: 'web, pdf'
   children:
@@ -993,7 +993,7 @@ children:
     url: Deploy-for-GDPR-readiness.html
     output: 'web, pdf'
 
-- title: 'Contribute to LoopBack 4'
+- title: 'Contributing to LoopBack 4'
   url: code-contrib-lb4.html
   output: 'web, pdf'
   children:
